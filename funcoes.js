@@ -7,4 +7,12 @@ function imprimirTexto(texto){
     console.log(texto);
 }
 
-imprimirTexto("oi mundo");
+imprimirTexto("oi mundo!");
+imprimirTexto(soma());
+
+function soma(){
+    return  2 + 2;
+}
+
+
+console.log(soma ());
