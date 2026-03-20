@@ -11,4 +11,4 @@ console.log(typeof texto);
 
 //coversão explícíta
 Number()
-String()
+String() 
